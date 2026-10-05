@@ -63,9 +63,9 @@ Cuando sea necesario realizar reuniones de trabajo, se utilizará Google Meet pa
 
 ## Referencias
 
-Grupo de WhatsApp: ![E01 - Grupo de WhatsApp](docs/evidencias/fase-0/E01_grupo_whatsapp.jpeg)
+Grupo de WhatsApp: <img src="./evidencias/fase-0/E01_grupo_whatsapp.jpeg" width="300">
 
-Google Meet: ![E02 - Llamada Meet](docs/evidencias/fase-0/E02_link_meet.png)
+Google Meet: <img src="./evidencias/fase-0/E02_link_meet.png" width="300">
 
 ## Estado
 
