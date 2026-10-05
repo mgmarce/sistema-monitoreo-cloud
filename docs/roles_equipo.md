@@ -5,7 +5,7 @@
 
 Para la fase 0, solo se definen las funciones iniciales
 
-```markdown
+
 # Roles y Responsabilidades del Equipo
 
 ## Proyecto
