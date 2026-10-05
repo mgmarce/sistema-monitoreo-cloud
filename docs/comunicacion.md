@@ -55,7 +55,7 @@ Cuando sea necesario realizar reuniones de trabajo, se utilizará Google Meet pa
 
 ## Horario de disponibilidad
 
-**Horario acordado:** [Pendiente de definir]
+**Horario acordado:** Cada sabado de 06:00 pm a 07:00 pm
 
 ## Tiempo esperado de respuesta
 
@@ -63,9 +63,9 @@ Cuando sea necesario realizar reuniones de trabajo, se utilizará Google Meet pa
 
 ## Referencias
 
-Grupo de WhatsApp: <img src="./evidencias/fase-0/E01_grupo_whatsapp.jpeg" width="300">
+Grupo de WhatsApp: <br><img src="./evidencias/fase-0/E01_grupo_whatsapp.jpeg" width="150">
 
-Google Meet: <img src="./evidencias/fase-0/E02_link_meet.png" width="300">
+Google Meet: <br><img src="./evidencias/fase-0/E02_link_meet.png" width="300">
 
 ## Estado
 
